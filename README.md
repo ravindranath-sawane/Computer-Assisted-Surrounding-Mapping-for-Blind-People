@@ -27,6 +27,7 @@ In the last decade, there has been a lot of deployment and development of device
 ```
 python yad2k.py cfg\yolo.cfg yolov3.weights data\yolo.h5
 ```
+- Update the IP Address for Camera Input from IP Webcam in `setup.py`. 
 
 - Run follow command to show the demo. 
 ```
