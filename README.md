@@ -28,6 +28,6 @@ In the last decade, there has been a lot of deployment and development of device
 python yad2k.py cfg\yolo.cfg yolov3.weights data\yolo.h5
 ```
 
-- Run follow command to show the demo. The result can be found in `images\res\` floder.
+- Run follow command to show the demo. 
 ```
 python setup.py
